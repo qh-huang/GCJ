@@ -1,0 +1,4 @@
+#!/bin/bash
+
+g++ -std=c++11 main.cpp && ./a.out < "${FILENAME}.in" | tee "${FILENAME}.out"
+

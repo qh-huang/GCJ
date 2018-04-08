@@ -3,6 +3,7 @@
 *.includes
 *.creator
 *.config
+*.creator.user
 
 # Prerequisites
 *.d
